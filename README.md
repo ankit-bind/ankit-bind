@@ -2,7 +2,6 @@
 <h3 align="center" style="font-size: 42px;">A Passionate Data Science Enthusiast</h3>
 
 <img alt ="Coding" align="right" width="400" src="./coding.gif"/>
----
 
 ### 🌟 About Me:
 - 🔭 **Currently Working on**: Data Science Projects
@@ -11,7 +10,7 @@
 - 📫 **How to Reach Me**: [itz.ankitbind01@gmail.com](mailto:itz.ankitbind01@gmail.com)
 - ⚡ **Fun Fact**: I am a human... well, most of the time!
 
----
+
 
 ### 🔗 Connect with Me:
 <p align="left">
@@ -23,7 +22,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools:
 <p>
@@ -46,18 +45,12 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitbind&show_icons=true&theme=radical" alt="Ankit's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbind&theme=radical" alt="Ankit's GitHub Streak"/>
 </p>
-
----
-
-### 🚀 Fun Projects:
-- **[Project Name 1](#)** - A short description of what it does or achieves.
-- **[Project Name 2](#)** - A cool project where you showcase something unique.
 
 Feel free to explore my repositories and connect!
