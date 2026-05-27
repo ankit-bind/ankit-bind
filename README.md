@@ -97,11 +97,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitbind&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbind&theme=radical"/>
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 ---
 
 ⭐ Focused on building scalable data systems, meaningful analytics, and intelligent models.
